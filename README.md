@@ -1,7 +1,7 @@
-### 🌱 suebin [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=subiini1109)](https://solved.ac/subiini1109)
+### 🌱 suebin 
 
-  <img src="http://mazandi.herokuapp.com/api?handle={subiini1109}&theme=warm"/>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=subiini1109)](https://solved.ac/subiini1109)
+
 
 
 
