@@ -15,3 +15,5 @@
 <br><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suebin&layout=compact)](https://github.com/suebin/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suebin&show_icons=true&theme=radical)
