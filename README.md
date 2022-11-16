@@ -14,6 +14,10 @@
 
 <br><br><br>
 
+🎇 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suebin&layout=compact)](https://github.com/suebin/github-readme-stats)
 
+<br>
+
+💪 My Solved.ac Profile
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=subiini1109)](https://solved.ac/subiini1109)<br/>
